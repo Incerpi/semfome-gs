@@ -1,5 +1,5 @@
 # semfome-gs
-Solução da Global Solution (Enterprise)
+Projeto de aplicativo que facilita a entrega de alimentos para os necessitados
 
 <h1 align="center">Sem Fome</h1>
 
